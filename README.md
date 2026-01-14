@@ -1,4 +1,4 @@
-# Shopping Note (Modern CRUD) — React + Vite + Tailwind + Express + Prisma (SQLite)
+# Shopping Note — React + Vite + Tailwind + Express + Prisma (SQLite)
 
 Aplikasi **Shopping Note** modern dengan fitur CRUD lengkap, UI modern (light/dark), search & filter, dan penyimpanan data pakai **SQLite**.
 
